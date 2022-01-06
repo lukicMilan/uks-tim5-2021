@@ -2,14 +2,14 @@
 
 ## Team
 
-Milana Tucakov
-Nikola Zejak
+Milana Tucakov\
+Nikola Zejak\
 Milan Lukic
 
 ## Requirements
 
-[Django]>=3.0,<4.0(https://docs.djangoproject.com/en/4.0/)
-psycopg2>=2.8
+[Django](https://docs.djangoproject.com/en/4.0/) >=3.0,<4.0 \
+[psycopg2](https://pypi.org/project/psycopg2/) >=2.8\
 [Docker](https://www.docker.com/get-started)
 
 ## Set environment variables
