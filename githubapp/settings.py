@@ -22,6 +22,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'user.apps.UserConfig',
+    'branch.apps.BranchConfig',
+    'commit.apps.CommitConfig',
+    'issue.apps.IssueConfig',
+    'label.apps.LabelConfig',
+    'milestone.apps.MilestoneConfig',
+    'origin.apps.OriginConfig',
+    'project.apps.ProjectConfig',
+    'pullrequest.apps.PullrequestConfig',
+    'repository.apps.RepositoryConfig',
 ]
 
 MIDDLEWARE = [
